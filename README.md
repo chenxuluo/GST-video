@@ -20,9 +20,9 @@ Please refer to [TRN-pytorch](https://github.com/metalbubble/TRN-pytorch) for da
 ### Pretrained Models
   |                              | Something-v1 | Something-v2 |
   |------------------------------| -------------| -------------|
-  |GST(alpha=4, 8 frames)        | [47.0]()     |  [61.6]()    |
-  |GST(alpha=4,16 frames)        | [48.6]()     |  [62.6]()    |
-  |GST-Large(alpha=4,8 frames)   | [47.7](https://drive.google.com/file/d/1F_vRndVOJPmOmeyw0k9zQM8pc4XgnewU/view?usp=sharing)     |  [62.0]()    |
+  |GST(alpha=4, 8 frames)        | 47.0     |  [61.6](https://drive.google.com/file/d/18xiD9C2GS0YcdrAzTUbW7ylv6XbrWkdS/view?usp=sharing)    |
+  |GST(alpha=4,16 frames)        | 48.6     |  [62.6](https://drive.google.com/file/d/1llsMnRFEaKLPcCNG4uk2ls9K8iuLVGFi/view?usp=sharing)    |
+  |GST-Large(alpha=4,8 frames)   | [47.7](https://drive.google.com/file/d/1TvgmZqv-20P77jKmqWNoJA7tewqJC_nK/view?usp=sharing)     |  [62.0](https://drive.google.com/file/d/1Ymc_NK5WK47Z4qAoVEJI3wBGlbuwaFdw/view?usp=sharing)    |
   
  * results are reported based on center crop  and 1 clip sampling. 
 
